@@ -131,10 +131,11 @@ footer {
     color: hsl(215, 51%, 70%);
     padding: 1rem 0.5rem;
     text-align: center;
-    margin: 0 10vh;
+    margin: 0 auto;
     margin-bottom: 1rem;
     border-radius: 0.5rem;
     font-family: 'Outfit', sans-serif;
+    width: 407px;
 }
 a {
     color: white;
